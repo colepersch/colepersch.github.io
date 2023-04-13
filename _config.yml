@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+  output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -220,7 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
