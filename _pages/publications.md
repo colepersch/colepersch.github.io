@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+In Review / Submitted
+======
+{% for post in site.submitted reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Published
+======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
