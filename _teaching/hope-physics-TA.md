@@ -2,9 +2,8 @@
 title: "General Physics Lab TA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Hope College, Physics Department"
-date: 2017-10-10
+date: "(Fall 2017, Spring 2018, Fall 2018, Fall 2019, Spring 2020)"
 location: "City, Country"
 ---
 
