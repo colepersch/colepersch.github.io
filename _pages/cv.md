@@ -6,5 +6,6 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Persch_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Persch_CV.pdf" width="1000" height="1000" type="application/pdf"/></object>
