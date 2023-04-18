@@ -8,5 +8,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://colepersch.github.io/_pdfs/Persch_CV.pdf" type="application/pdf"/>
+{% pdf "https://colepersch.github.io/_pdfs/Persch_CV.pdf" %}
 
