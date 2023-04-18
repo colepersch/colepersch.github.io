@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% pdf {{ page.Persch_CV }} height=1000px %}
+
 <object 
   data="Persch_CV.pdf" 
   width="1000" 
