@@ -6,7 +6,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-{% pdf "/_pdfs/Persch_CV.pdf" %}
+{% pdf "/Persch_CV.pdf" width=1000px height=1000px %}
 
