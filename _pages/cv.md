@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="{{ post.file_document_path }}" width="1000" height="1000" type='./Persch_CV.pdf'/>i
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
