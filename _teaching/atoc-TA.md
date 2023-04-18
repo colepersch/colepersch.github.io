@@ -1,7 +1,7 @@
 ---
-title: "Weather and Atmosphere Lab TA (ATOC 1070)"
+title: "Weather and Atmosphere Lab Teaching Assistant (ATOC 1070)"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Lab Course"
 venue: "University of Colorado Boulder Atmospheric and Oceanic Science Department"
 dates: "(Fall 2020, Spring 2021)"
 location: "City, Country"

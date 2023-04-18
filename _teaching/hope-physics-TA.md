@@ -1,7 +1,7 @@
 ---
-title: "General Physics Lab TA"
+title: "General Physics Lab Teaching Assistant (PHYS 141 & 142)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Lab Course"
 venue: "Hope College Physics Department"
 dates: "(Fall 2017, Spring 2018, Fall 2018, Fall 2019, Spring 2020)"
 location: "City, Country"
