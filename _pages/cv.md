@@ -8,5 +8,5 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="../_pdfs/Persch_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+<embed src="https://colepersch.github.io/_pdfs/Persch_CV.pdf" type="application/pdf"/>
 
