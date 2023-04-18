@@ -8,5 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-{% pdf "https://colepersch.github.io/_pdfs/Persch_CV.pdf" %}
-
+<object data="../_pdfs/Persch_CV.pdf" width="1000" height="1000" type="application/pdf"/></object>
