@@ -1,8 +1,9 @@
 ---
 title: "Juneau Icefield Research Program Teaching Faculty"
 collection: teaching
+date: 2022-07-29
 type: "Undergraduate Field Course"
-venue: "University of Maine"
+venue: "Juneau Icefield"
 dates: "(Summer 2022)"
 location: "City, Country"
 ---

@@ -12,7 +12,7 @@ I am a climate scientist interested in understanding the evolution of climate ov
 
 Current Research
 ======
-I am investigating how orbital precession influences air-sea carbon flux in the Southern Ocean. Read more about it
+I am interested in understanding how orbital precession influences the global carbon cycle. Recently I submitted a paper that uses CESM to models to compare air-sea carbon flux in the Southern Ocean under different states of precession.
 
 
 Past Work

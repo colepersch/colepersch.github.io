@@ -4,5 +4,5 @@ collection: submitted
 date: 2023-05-13
 link: "https://essopenarchive.org/users/599237/articles/631389-the-impact-of-orbital-precession-on-air-sea-co-_-2-exchange-in-the-southern-ocean"
 venue: 'Geophysical Research Letters'
-citation: '<b>Cole Frederick Persch</b>, Pedro DiNezio, Nicole Suzanna Lovenduski'
+citation: '<b>Cole Frederick Persch</b>, Pedro DiNezio, Nicole Suzanne Lovenduski'
 ---
