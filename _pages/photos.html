@@ -16,7 +16,7 @@ I enjoy taking pictures with a film camera while out on hikes or doing field wor
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
+      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.desc }}</a>
     </li>
   {% endfor %}
 </ul>
