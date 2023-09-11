@@ -3,7 +3,7 @@ title: "Weather and Atmosphere Lab Instructor (ATOC 1070)"
 collection: teaching
 date: 2020-07-29
 type: "Undergraduate Lab Course"
-venue: "University of Colorado Boulder Atmospheric and Oceanic Science Department"
+venue: "University of Colorado, Boulder Atmospheric and Oceanic Science Department"
 dates: "(Fall 2020, Spring 2021)"
 location: "City, Country"
 ---
