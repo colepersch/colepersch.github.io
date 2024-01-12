@@ -16,7 +16,7 @@ I am interested in understanding how orbital precession influences the global ca
 
 Teaching
 ======
-In addition to my scientific work, I am also passionate about teaching! I have had many of chances to work as an instructor both in a traditional classroom setting and out in the field near Juneau, Alaska. My style is focused on engaging students to learn about science through discussion and critical thinking rather than route memorization. Through this experience, I am working on earning the Certificate in College Teaching offered by CU Boulder.
+In addition to my scientific work, I am also passionate about teaching! I have had many chances to work as an instructor both in a traditional classroom setting and out in the field near Juneau, Alaska. My style is focused on engaging students to learn about science through discussion and critical thinking rather than route memorization. Through this experience, I am working on earning the Certificate in College Teaching offered by CU Boulder.
 
 Past Work
 ======
